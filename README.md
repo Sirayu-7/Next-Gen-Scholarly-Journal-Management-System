@@ -1,0 +1,1 @@
+# Next-Gen-Scholarly-Journal-Management-System
