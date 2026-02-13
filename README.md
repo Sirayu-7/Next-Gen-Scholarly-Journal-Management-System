@@ -1,4 +1,6 @@
-# อยู่ในขั้นตอนการศึกษาวิธีทำ
+# สำเร็จ 🟢✅
+   - Web link : https://64wmyd.csb.app/
+   - Code Web : https://codesandbox.io/p/sandbox/64wmyd
 
 # 🧠 Concept Idea 
 
